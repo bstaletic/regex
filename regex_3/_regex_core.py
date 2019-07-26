@@ -18,7 +18,7 @@ import sys
 import unicodedata
 from collections import defaultdict
 
-import regex._regex as _regex
+import _regex
 
 __all__ = ["A", "ASCII", "B", "BESTMATCH", "D", "DEBUG", "E", "ENHANCEMATCH",
   "F", "FULLCASE", "I", "IGNORECASE", "L", "LOCALE", "M", "MULTILINE", "P",
